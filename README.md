@@ -1,7 +1,7 @@
-# Retail Sales Analysis with Walmart Data
+# 🛒 Retail Sales Analysis with Walmart Data
 This project analyzes Walmart's retail sales data across 45 stores from February 2010 to November 2012. The analysis aims to uncover insights regarding weekly sales patterns, the effect of holidays, store-wise performance, and other related economic indicators.
 
-#  Dataset Description
+#  📊 Dataset Description
 The dataset contains:
 
 Store: Store number
@@ -20,9 +20,9 @@ CPI: Consumer Price Index
 
 Unemployment: Unemployment rate
 
-#🔗 Dataset Source: Kaggle - Walmart Sales Dataset
+# 🔗 Dataset Source: Kaggle - Walmart Sales Dataset
 
-#  Objectives
+#  🔍Objectives
 Perform exploratory data analysis (EDA)
 
 Identify stores with highest sales and variability
@@ -33,7 +33,7 @@ Aggregate and visualize sales at monthly and semester levels
 
 Analyze relationships between weekly sales and numeric variables
 
-#  Key Findings
+# ✅ Key Findings
 Store X had the highest average weekly sales
 
 Store Y had the highest sales variability
@@ -44,10 +44,4 @@ Monthly/semester sales trends revealed seasonal peaks
 
 Strong correlations found between sales and CPI/Unemployment for specific stores
 
-#  Technologies Used
-Python (pandas, matplotlib, seaborn)
-
-Jupyter Notebook
-
-Git / GitHub
-
+ 
